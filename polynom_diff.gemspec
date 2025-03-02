@@ -10,15 +10,15 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Gem for differentiation of polynomials"
   spec.description = "Gem for differentiation of polynomials"
-  spec.homepage = "https://github.com/users/Oleg-Demianenko/projects/1/views/1"
+  spec.homepage = "https://github.com/Oleg-Demianenko/polynom_diff"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.1.0"
 
   spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
 
-  spec.metadata["homepage_uri"] = "https://github.com/users/Oleg-Demianenko/projects/1/views/1"
-  spec.metadata["source_code_uri"] = "https://github.com/users/Oleg-Demianenko/projects/1/views/1"
-  spec.metadata["changelog_uri"] = "https://github.com/users/Oleg-Demianenko/projects/1/views/1"
+  spec.metadata["homepage_uri"] = "https://github.com/Oleg-Demianenko/polynom_diff"
+  spec.metadata["source_code_uri"] = "https://github.com/Oleg-Demianenko/polynom_diff"
+  spec.metadata["changelog_uri"] = "https://github.com/Oleg-Demianenko/polynom_diff"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
